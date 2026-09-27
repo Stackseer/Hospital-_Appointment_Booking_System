@@ -13,3 +13,7 @@ frontend/.env.local
 .idea/
 *.iml
 .vscode/
+
+node_modules/
+target/
+*.class
